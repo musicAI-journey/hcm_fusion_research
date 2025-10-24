@@ -6,9 +6,6 @@
 
 This project systematically explores melody-conditioned generation for cross-cultural music fusion, comparing autoregressive (MusicGen Melody) and flow-matching (ACE-STEP) architectures for Hindustani Classical Music + Western genre integration.
 
-**Timeline:** 3 weeks (21 days + buffer)  
-**Target:** Research demonstration for Rafael Valle (Meta AI, Fugatto author)
-
 ## Project Structure
 
 ```
